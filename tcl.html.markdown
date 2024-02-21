@@ -5,7 +5,7 @@ contributors:
 filename: learntcl.tcl
 ---
 
-Tcl was created by [John Ousterhout](https://wiki.tcl-lang.org/page/John+Ousterhout) as a
+Tcl был написан [John Ousterhout](https://wiki.tcl-lang.org/page/John+Ousterhout) как 
 reusable scripting language for circuit design tools that he authored.  In 1997 he
 was awarded the [ACM Software System
 Award](https://en.wikipedia.org/wiki/ACM_Software_System_Award) for Tcl.   Tcl
